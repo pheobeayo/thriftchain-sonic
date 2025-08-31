@@ -1,45 +1,21 @@
 {
-    "0xC67DCE33D7A8efA5FfEB961899C73fe01bCe9273": {
-        "name": "Wrapped Coston2Flare",
-        "symbol": "WC2FLR",
+    "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38": {
+        "name": "Wrapped S",
+        "symbol": "wS",
         "decimals": 18,
-        "address": "0xC67DCE33D7A8efA5FfEB961899C73fe01bCe9273"
+        "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38"
     },
 
-    "0xA40F6AF5A9b43E4E713A4e3f4d71C918933916a3": {
-        "name": "Pixel Shard",
-        "symbol": "PXLs",
+    "0xA4879Fed32Ecbef99399e5cbC247E533421C4eC6": {
+        "name": "USDC",
+        "symbol": "USDC",
         "decimals": 18,
-        "address": "0xA40F6AF5A9b43E4E713A4e3f4d71C918933916a3"
+        "address": "0xA4879Fed32Ecbef99399e5cbC247E533421C4eC6"
     },
-    "0x8b4abA9C4BD7DD961659b02129beE20c6286e17F": {
-        "name": "FTestXRP",
-        "symbol": "FXRP",
+    "0xAF93888cbD250300470A1618206e036E11470149": {
+        "name": "CORAL",
+        "symbol": "CORAL",
         "decimals": 18,
-        "address": "0x8b4abA9C4BD7DD961659b02129beE20c6286e17F"
-    }, 
-    "0xC1A5B41512496B80903D1f32d6dEa3a73212E71F":{
-        "name": "USDT0 test",
-        "symbol": "USD₮0",
-        "decimals": 18,
-        "address": "0xC1A5B41512496B80903D1f32d6dEa3a73212E71F"
-    },
-    "0xAC6e1c5fdc401ddcC554f7c06dc422152dEb3cB7":{
-        "name": "USDT Token",
-        "symbol": "USDT",
-        "decimals": 18,
-        "address": "0xAC6e1c5fdc401ddcC554f7c06dc422152dEb3cB7"
-    },
-    "0xf3187D2115171708fca10f1A11c522172d7Ec2d5":{
-        "name": "ETH Token",
-        "symbol": "ETH",
-        "decimals": 18,
-        "address": "0xf3187D2115171708fca10f1A11c522172d7Ec2d5"
-    },
-    "0x55d8a63D76449654cb28Dd697855FfB676F09F35":{
-        "name": "Test Token",
-        "symbol": "TEST",
-        "decimals": 18,
-        "address": "0x55d8a63D76449654cb28Dd697855FfB676F09F35"
-    }
+        "address": "0xAF93888cbD250300470A1618206e036E11470149"
+    } 
 }
