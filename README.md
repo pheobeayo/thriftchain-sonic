@@ -70,3 +70,10 @@ npm run dev
 ```
 
 ---
+
+
+## Contract Addresses
+- Thriftup :0x7FEa3580063ecA42958ebaB5e4035bEBB109dD12
+- MockToken Address: 0x38b0917178b0C07bEAAf9c6255Ad97C1c9D984EE
+- Single Thrift Clone: 0x699525B1884F5afDDc9CA8A353d32b6AF95656aB
+- Group Thrift Clone: 0xA61984D36adA4C7b48Cd58231058638860BD7067
